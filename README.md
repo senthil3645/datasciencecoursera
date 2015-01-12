@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Cousera Project assignment
+Cousera Project assignment.
